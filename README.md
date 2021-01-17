@@ -6,3 +6,6 @@ Shows Worldwide cases, deaths, recovered and active cases.
 It also shows total cases, total deaths, new cases, and total recovered for each and every country.
 
 https://youtu.be/6DjgnRSULb0
+
+# Language
+Requires Python 3.x
