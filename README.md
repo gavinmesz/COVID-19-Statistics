@@ -7,5 +7,11 @@ It also shows total cases, total deaths, new cases, and total recovered for each
 
 https://youtu.be/6DjgnRSULb0
 
+Country selection menu with overall worldwide statistics.
+![image](https://github.com/user-attachments/assets/2a99a018-5865-44d2-a38e-c710acb7499f)
+
+Country Menu
+![image](https://github.com/user-attachments/assets/e013a669-3d8f-4f81-9bf4-c0d6e9924632)
+
 # Language
 Requires Python 3.x
