@@ -1,5 +1,5 @@
 # COVID-19-Statistics app
-A tool fully based off of web scraping for covid-19 stats. The libraries used in this are Beautiful soup for parcing, requests for getting the information online and easygui for a graphical interface.
+A tool fully based off of web scraping for covid-19 stats. The libraries used in this are Beautiful soup for parsing, requests for getting the information online and easygui for a graphical interface.
 
 Shows Worldwide cases, deaths, recovered and active cases.
 
